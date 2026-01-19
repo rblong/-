@@ -1,0 +1,5 @@
+{
+  "name": "孟德尔豌豆实验室",
+  "description": "一个互动的孟德尔遗传学教育工具，包含虚拟杂交实验室、棋盘法生成器和AI科普导师。",
+  "requestFramePermissions": []
+}
